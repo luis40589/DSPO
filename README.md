@@ -39,7 +39,8 @@ Recent advances in diffusion models have improved Real-World Image Super-Resolut
 <summary>Quantitative Comparisons (click to expand)</summary>
 
 <p align="center">
-  <img src="./figs/fig3">
+  <img src="./figs/fig2.png">
+    <img src="./figs/fig3.png">
 </p>
 </details>
 
