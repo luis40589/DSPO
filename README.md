@@ -11,7 +11,7 @@
 </div>
 
 <div>
-    <sup>1</sup>University of Science and Technology of China, <sup>2</sup>Huawei Noah’s Ark Lab, <br/>
+    <sup>1</sup>University of Science and Technology of China, <sup>2</sup>Huawei Noah’s Ark Lab <br/>
 </div>
 
   <a href="https://arxiv.org/pdf/2504.15176">
