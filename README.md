@@ -17,7 +17,7 @@
   <a href="https://arxiv.org/pdf/2504.15176">
     <img
       src="https://img.shields.io/badge/RealSR_R1-paper-red?logo=arxiv&logoColor=red"
-      alt="RealSR-R1 Paper on arXiv"
+      alt="DSPO Paper on arXiv"
     />
    </a>
 
